@@ -2,6 +2,8 @@
 Small app to find all dictionaries with given name and delete them from given path.
 
 Designed to clean all .AppleDouble files which were created on WD external drive automatically after I connected my MacBook, but you can use it for whatever purpose you want. Make sure you really want to delete dictionary. <b>Deletion is permanent!</b> 
+
+Note that: 1 TB ethernet HDD with many directories took about 2 hours to clean. 
 ## How to use?
 ---
 For now you can use it from IDE. Requied Java 1.8 and ApacheCommons library.
